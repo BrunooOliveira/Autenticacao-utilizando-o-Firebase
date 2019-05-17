@@ -1,0 +1,5 @@
+JavaScript puro
+Angular 1 e 2
+React
+Android/iOS
+Outros

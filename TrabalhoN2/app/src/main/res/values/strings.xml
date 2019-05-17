@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrabalhoN2</string>
+    
+    <string name="facebook_application_id" translatable="false">2771264936248158</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb2771264936248158</string>
+</resources>

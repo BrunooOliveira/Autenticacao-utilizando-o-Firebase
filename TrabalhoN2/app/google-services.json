@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471761621807",
+    "firebase_url": "https://trabalhon2-60d40.firebaseio.com",
+    "project_id": "trabalhon2-60d40",
+    "storage_bucket": "trabalhon2-60d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471761621807:android:dd21909336c35d2d",
+        "android_client_info": {
+          "package_name": "br.edu.faculdadedelta.trabalhon2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471761621807-qbnbqqere1gm30kpp07j9loc2p5aqblg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.faculdadedelta.trabalhon2",
+            "certificate_hash": "b00c37d46666f15f661947ba3264d4073707cd5d"
+          }
+        },
+        {
+          "client_id": "471761621807-f4qhgkeii4nhfdafl31dq3p27g6o94cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4yPl9tNdqdUm9tjDccTJiarfS7T6-bng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471761621807-f4qhgkeii4nhfdafl31dq3p27g6o94cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

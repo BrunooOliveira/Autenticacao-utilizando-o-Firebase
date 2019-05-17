@@ -1,0 +1,7 @@
+Com funciona o Firebase para dados?
+
+Utiliza conceito de NoSQL
+Armazena documentos
+Versiona os documentos
+Disponibiliza coleções
+Fornece métodos CRUD

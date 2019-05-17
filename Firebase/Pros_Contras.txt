@@ -1,0 +1,12 @@
+Prós e contras Firebase:
+
+Prós:
+Economia de tempo
+Isenção de responsabilidades
+Redução de custos
+Alta disponibilidade
+
+Contras:
+Customizável mas nem tanto
+Você se adequa a ele
+Dificuldades em cenários OnPremise
